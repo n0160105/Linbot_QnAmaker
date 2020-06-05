@@ -7,7 +7,7 @@ colorama==0.4.1
 cycler==0.10.0
 dj-database-url==0.5.0
 dj-static==0.0.6
-Django==3.0.3
+Django==3.0.7
 Flask==1.1.1
 future==0.18.2
 gunicorn==19.3.0
